@@ -1,6 +1,6 @@
 sharedo
-DOS (Denial-of-Service) - უარი მომსახურებაზე 
-DDOS (Distributed Denial-of-Service) - განაწილებული უარი მომსახურებაზე  
+DOS (Denial-of-Service) - მომსახურებაზე წვდომის შეზღუდვა 
+DDOS (Distributed Denial-of-Service) - გადანაწილებული მომსახურებაზე წვდომის შეზღუდვა  
 DCO (Defensive Cyberspace Ops) კიბერსივრცეში თავდაცვითი ოპერაციები 
 OCO (Offensive Cyberspace Ops) კიბერსივრცეში თავდასხმითი ოპერაციები
 RA (Response Actions) – საპასუხო ქმედებები
@@ -40,5 +40,6 @@ MFEW (Multi-Function Electronic Warfare) მრავალფუნქციო
 EWPMT (Electronic Warfare Planning and Management Tool) ელექტრონულიომის დაგეგმვისა და მართვის ინსტრუმენტი (პროგრამა) 
 BLOS (beyond line-of-sight) ხილვადობის ხაზის გარეთ
 LOS (line-of-sight) ხილვადობის ხაზი 
- 
-
+SENSOR TO SHOOTER LINKAGE სენსორი-მსროლელის კავშირი 
+ECCM (Electronic Counter - Countermeasures) 
+EMOE (Electro Magnetic Operational Environment) ელექტრომაგნიტური ოპერატიული გარემო 
