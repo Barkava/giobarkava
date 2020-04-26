@@ -43,5 +43,11 @@ LOS (line-of-sight) ხილვადობის ხაზი
 SENSOR TO SHOOTER LINKAGE სენსორი-მსროლელის კავშირი 
 ECCM (Electronic Counter - Countermeasures) 
 EMOE (Electro Magnetic Operational Environment) ელექტრომაგნიტური ოპერატიული გარემო 
-Pentest (penetration test) სისტემაში შეღწევის ტესტი 
-Valnerabulity - მოწყვლადობა 
+Pentest (penetration test) - სისტემაში შეღწევის ტესტი 
+Vulnerability - მოწყვლადობა 
+MOE (measures of effectiveness) - ეფექტურობის საზომი
+MOP (measures of performance) - გაწეული სამუშაოს ხარისხის შეფასების საზომი/კრიტერიუმი
+NIST (National Institute of Standards and Technology) - სტანდარტების და ტექნოლოგიების ნაციონალური ინსტიტუტი 
+KRI (key risk indicators) - რისკის ძირითადი მაჩვენებლები 
+KPI (key performance indicators) - მუშაობის/საქმიანობის ხარისხის ძირითადი მაჩვენებლები 
+DFS (Digital Forensic Science) - ციფრული ექსპერტიზის მეცნიერება
